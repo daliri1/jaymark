@@ -1,0 +1,30 @@
+body{
+    background-position: justify;
+    text-align: center;
+}
+    
+
+header{
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+#random-background{
+width: 100vw;
+height: 100vh; 
+background: white;
+margin: 0px;
+text-align: center;
+font-size:50px;
+}
+
+input{
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    }
+button{
+    width: 100px;
+    height: 30px;
+}
